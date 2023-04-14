@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" height="250">
 <h1 align="center">Hi 👋, I'm Trinh Dat</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinh-tan-dat&label=Profile%20views&color=0e75b6&style=flat" alt="trinh-tan-dat" /> </p>
 
@@ -14,3 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trinh-tan-dat&show_icons=true&theme=dracula&locale=en&layout=compact" alt="trinh-tan-dat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trinh-tan-dat&show_icons=true&theme=highcontrast&locale=en" alt="trinh-tan-dat" /></p>
+
+<center><img alt="GIF"
+        src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/boy-coding.gif"
+        style="margin-left: 5px" /></center>
