@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="body-gif" height="250">
+<img align="right" alt="GIF" src="body-coding.gif" height="250">
 <h1 align="center">Hi 👋, I'm Trinh Dat</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinh-tan-dat&label=Profile%20views&color=0e75b6&style=flat" alt="trinh-tan-dat" /> </p>
