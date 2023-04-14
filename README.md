@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" height="300">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" height="250">
 
 <h1 align="center">Hi 👋, I'm Trinh Dat</h1>
 <p align="left"> <img
