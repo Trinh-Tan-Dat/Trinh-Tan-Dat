@@ -1,10 +1,10 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" height="250">
+
 
 <h1 align="center">Hi 👋, I'm Trinh Dat</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trinh-tan-dat&label=Profile%20views&color=0e75b6&style=flat" alt="trinh-tan-dat" /> </p>
 
 - 📫 How to reach me **21520714@gm.uit.edu.vn**
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" height="250">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/trinhdat2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/trinhdat2712" height="30" width="40" /></a>
