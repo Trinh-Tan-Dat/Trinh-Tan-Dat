@@ -49,11 +49,6 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" height="40" alt="openstack logo" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" height="40" alt="sonarqube logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/img/logo.svg" height="40" alt="trivy logo" />
-  <img width="12" />
-  <img src="https://argoproj.github.io/argo-cd/assets/logo/horizontal-color.svg" height="40" alt="argocd logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
