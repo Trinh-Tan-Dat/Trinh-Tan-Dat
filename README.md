@@ -4,7 +4,6 @@
 
 ###
 
-<p align="left">🎓 I'm currently a student at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam.</p>
 
 ###
 
@@ -12,7 +11,7 @@
 
 ###
 
-<p align="left">🎲 I'm passionate about backend development and DevOps. I enjoy building robust, scalable systems and automating workflows to improve efficiency. <br><br> 🛠️ Backend Development: Experienced in creating RESTful APIs and microservices using technologies like Spring, Node.js. <br>💾Database Management:  Proficient in working with MySQL and MongoDB.<br>🚀DevOps:  Skilled in CI/CD pipelines, containerization with Docker, and orchestration with Kubernetes. Familiar with Google Cloud.</p>
+
 
 ###
 
